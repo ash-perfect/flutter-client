@@ -1,0 +1,13 @@
+{
+  "_id": {"$oid": "5e786083bd1fb4e23bfd9f1c"},
+  "placedby": [{"$oid": "5e77a5d0bd1fb4e23bfd9f16"}],
+  "table": {"$oid": "5e77a5c9bd1fb4e23bfd9f0a"},
+  "foodlist": {"0":
+  {"name": "THAI GRILLED FISH IN BANANA LEAF",
+    "description": "Delicately Grilled Fish With Basil Flavour And Served Hot",
+    "price": "330"},
+    "1":
+    {"name": "CRISPY CHILLY MUSHROOM",
+      "description": "Crispy Fried Mushrooms Tossed With Oriental Spices",
+      "price": "220"}},
+  "customer_type": "table"}
